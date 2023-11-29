@@ -15,4 +15,4 @@ async def react(ctx):
     await ctx.send('Reacting to your command! 😄')
 
 # Run the bot with the bot token
-bot.run('MTE3ODkwNjY4NTY3MTIzMTU1OA.GPPluy.kP3lqw3-_3jZfE-ehndot3x3g09j7ZhakDgk_E')
+bot.run('MTE3ODkwNjY4NTY
